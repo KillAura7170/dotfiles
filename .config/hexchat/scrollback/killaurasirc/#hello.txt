@@ -1,0 +1,18 @@
+T 1685939666 19*	Now talking on 22#Hello
+T 1685939670 20<killaura>30	yooooooooooo
+T 1685939674 20<killaura>30	this is working
+T 1685939677 20<killaura>30	so good
+T 1685939681 20<killaura>30	333oog3geogieoierogoegoegoegeg
+T 1685939681 20<killaura>30	eeg
+T 1685939682 20<killaura>30	egeg
+T 1685939682 20<killaura>30	eg
+T 1685939682 20<killaura>30	eg
+T 1685939682 20<killaura>30	eg
+T 1685939683 20<killaura>30	eg
+T 1685939683 20<killaura>30	eg
+T 1685939683 20<killaura>30	erg
+T 1685939691 20*	Disconnected (20)
+T 1685939695 Not connected. Try /server <host> [<port>]
+T 1685939700 Unknown Command disconnect. Try /help
+T 1685939703 Usage: SERVER [-ssl] <host> [<port>] [<password>], connects to a server, the default port is 6667 for normal connections, and 6697 for ssl connections
+T 1685939712 FiSHLiM plugin unloaded

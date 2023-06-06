@@ -1,0 +1,30 @@
+**** BEGIN LOGGING AT Mon Jun  5 13:31:06 2023
+
+Jun 05 13:31:06 AutoLoad failed for: /usr/lib/hexchat/plugins/python.so
+Jun 05 13:31:06 libpython3.8.so.1.0: cannot open shared object file: No such file or directory
+Jun 05 13:31:06 FiSHLiM plugin loaded
+Jun 05 13:31:06 Checksum plugin loaded
+Jun 05 13:31:06 AutoLoad failed for: /usr/lib/hexchat/plugins/perl.so
+Jun 05 13:31:06 libperl.so: cannot open shared object file: No such file or directory
+Jun 05 13:31:06 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jun 05 13:31:06 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jun 05 13:31:06 Sysinfo plugin loaded
+**** BEGIN LOGGING AT Mon Jun  5 16:20:25 2023
+
+Jun 05 16:20:25 AutoLoad failed for: /usr/lib/hexchat/plugins/python.so
+Jun 05 16:20:25 libpython3.8.so.1.0: cannot open shared object file: No such file or directory
+Jun 05 16:20:26 FiSHLiM plugin loaded
+Jun 05 16:20:26 Checksum plugin loaded
+Jun 05 16:20:26 AutoLoad failed for: /usr/lib/hexchat/plugins/perl.so
+Jun 05 16:20:26 libperl.so: cannot open shared object file: No such file or directory
+Jun 05 16:20:26 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jun 05 16:20:26 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jun 05 16:20:26 Sysinfo plugin loaded
+Jun 05 16:20:26 *	Looking up 7jo4m44dm5debxcjzdvkgvhur3fq4nbksffz72rc3fwuievenp2qabid.onion
+Jun 05 16:20:26 *	Looking up 127.0.0.1
+Jun 05 16:20:26 *	Connecting to 127.0.0.1 (127.0.0.1:9050)
+Jun 05 16:20:26 *	Connection failed (Connection refused)
+Jun 05 16:20:36 Cycling to next server in killaurasirc...
+Jun 05 16:20:36 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jun  5 16:20:36 2023
+

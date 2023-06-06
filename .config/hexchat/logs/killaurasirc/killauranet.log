@@ -1,0 +1,62 @@
+**** BEGIN LOGGING AT Mon Jun  5 13:32:03 2023
+
+Jun 05 13:32:03 *	MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=KillAuraNET NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,iow WHOX :are supported by this server
+Jun 05 13:32:03 *	There are 0 users and 0 invisible on 1 servers
+Jun 05 13:32:03 *	1 :unknown connections
+Jun 05 13:32:03 *	0 :channels formed
+Jun 05 13:32:03 *	I have 0 clients and 0 servers
+Jun 05 13:32:03 *	Current local users: 0  Max: 0
+Jun 05 13:32:03 *	Current global users: 0  Max: 0
+Jun 05 13:32:03 *	killauras.irc message of the day
+Jun 05 13:32:03 *	|------------------------------------------------|
+Jun 05 13:32:03 *	|WELCOME TO KILLAURA'S PRIVATE IRC SERVER ON TOR!|
+Jun 05 13:32:03 *	|------------------------------------------------|
+Jun 05 13:32:03 *	End of message of the day.
+Jun 05 13:34:02 *	hello :Invalid channel name
+Jun 05 13:34:10 
+Commands Available:
+
+Jun 05 13:34:10   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+Jun 05 13:34:10   AWAY      BACK      BAN       CHANOPT   CHARSET
+Jun 05 13:34:10   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+Jun 05 13:34:10   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+Jun 05 13:34:10   DEVOICE   DISCON    DNS       DOAT      ECHO
+Jun 05 13:34:10   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+Jun 05 13:34:10   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+Jun 05 13:34:10   GETSTR    GHOST     GUI       HELP      HOP
+Jun 05 13:34:10   ID        IGNORE    INVITE    JOIN      KICK
+Jun 05 13:34:10   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+Jun 05 13:34:10   LOAD      MDEHOP    MDEOP     ME        MENU
+Jun 05 13:34:10   MHOP      MKICK     MODE      MOP       MSG
+Jun 05 13:34:10   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+Jun 05 13:34:10   NOTIFY    OP        PART      PING      QUERY
+Jun 05 13:34:10   QUIET     QUIT      QUOTE     RECONNECT RECV
+Jun 05 13:34:10   RELOAD    SAY       SEND      SERVCHAN  SERVER
+Jun 05 13:34:10   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+Jun 05 13:34:10   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+Jun 05 13:34:10   UNQUIET   URL       USELECT   USERLIST  VOICE
+Jun 05 13:34:10   WALLCHAN  WALLCHOP  
+Jun 05 13:34:10 
+User defined commands:
+
+Jun 05 13:34:10   ACTION    AME       ANICK     AMSG      BANLIST
+Jun 05 13:34:10   CHAT      DIALOG    DMSG      EXIT      GREP
+Jun 05 13:34:10   IGNALL    J         KILL      LEAVE     M
+Jun 05 13:34:10   OMSG      ONOTICE   RAW       SERVHELP  SPING
+Jun 05 13:34:10   SQUERY    SSLSERVER SV        UMODE     UPTIME
+Jun 05 13:34:10   VER       VERSION   WALLOPS   WI        WII
+Jun 05 13:34:10   
+Jun 05 13:34:10 
+Plugin defined commands:
+
+Jun 05 13:34:10   UNLOAD    TRAY      SYSINFO   CHECKSUM  ME
+Jun 05 13:34:10   MSG+      NOTICE+   TOPIC+    KEYX      DELKEY
+Jun 05 13:34:10   SETKEY    IDENTD    TIMER     
+Jun 05 13:34:10 
+Type /HELP <command> for more information, or /HELP -l
+
+Jun 05 13:34:51 *	Disconnected ()
+Jun 05 13:35:12 Sysinfo plugin unloaded
+Jun 05 13:35:12 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Jun  5 13:35:12 2023
+

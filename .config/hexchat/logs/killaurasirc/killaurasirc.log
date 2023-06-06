@@ -1,0 +1,13 @@
+**** BEGIN LOGGING AT Mon Jun  5 13:32:01 2023
+
+Jun 05 13:32:01 *	*** Looking up your hostname...
+Jun 05 13:32:01 *	*** Could not resolve your hostname: Domain not found; using your IP address (127.0.0.1) instead.
+**** ENDING LOGGING AT Mon Jun  5 13:32:03 2023
+
+**** BEGIN LOGGING AT Mon Jun  5 13:32:03 2023
+
+Jun 05 13:32:03 *	Welcome to the KillAuraNET IRC Network killaura!killaura@127.0.0.1
+Jun 05 13:32:03 *	Your host is killauras.irc, running version InspIRCd-3
+Jun 05 13:32:03 *	This server was created 13:12:45 Jun 05 2023
+Jun 05 13:32:03 *	killauras.irc InspIRCd-3 iosw biklmnopstv :bklov
+Jun 05 13:32:03 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=b:100 :are supported by this server

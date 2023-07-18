@@ -1,4 +1,9 @@
 ncmpcpp_directory = "~/.config/ncmpcpp"
 mpd_music_dir = "~/Music"
 message_delay_time = "1"
-visualizer_type = "spectrum"
+visualizer_fifo_path = /tmp/mpd.fifo
+visualizer_output_name = Visualizer feed
+visualizer_in_stereo = yes
+visualizer_sync_interval = 1 # This has been tested at the default value, 30, as well
+visualizer_type = spectrum
+visualizer_look = +|
